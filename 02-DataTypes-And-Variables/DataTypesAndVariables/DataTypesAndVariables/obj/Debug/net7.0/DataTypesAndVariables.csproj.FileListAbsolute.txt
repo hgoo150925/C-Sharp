@@ -1,0 +1,5 @@
+C:\Users\a779433\source\repos\complete-csharp-masterclass\02-DataTypes-And-Variables\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net7.0\DataTypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\a779433\source\repos\complete-csharp-masterclass\02-DataTypes-And-Variables\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net7.0\DataTypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a779433\source\repos\complete-csharp-masterclass\02-DataTypes-And-Variables\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net7.0\DataTypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\a779433\source\repos\complete-csharp-masterclass\02-DataTypes-And-Variables\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net7.0\DataTypesAndVariables.AssemblyInfo.cs
+C:\Users\a779433\source\repos\complete-csharp-masterclass\02-DataTypes-And-Variables\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net7.0\DataTypesAndVariables.csproj.CoreCompileInputs.cache

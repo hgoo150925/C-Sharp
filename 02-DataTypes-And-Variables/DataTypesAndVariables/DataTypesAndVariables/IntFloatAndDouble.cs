@@ -4,6 +4,8 @@ class IntFloatAndDouble
 {
     static void Main(string[] args)
     {
+        // https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#types-and-variables
+
         // declaring multiple variables at once
         int num3, num4, num5;
 
