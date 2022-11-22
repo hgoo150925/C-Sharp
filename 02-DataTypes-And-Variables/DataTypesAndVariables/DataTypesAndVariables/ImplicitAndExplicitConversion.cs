@@ -1,4 +1,5 @@
 ﻿namespace DataTypesAndVariables;
+
 class ImplicitAndExplicitConversion
 {
     static void Main(string[] args)
