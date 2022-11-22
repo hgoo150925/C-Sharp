@@ -3,18 +3,27 @@ class ImplicitAndExplicitConversion
 {
     static void Main(string[] args)
     {
-        // implicit conversion 
-        int num = 12345678;
+        // impicit conversion
+        int num = 12390532;
         long bigNum = num;
 
+        float myFloat = 13.37F;
+        double myNewDouble = myFloat;
 
         double myDouble = 13.37;
         int myInt;
-
         // explicit conversion
-        // cast double to int
+        // cast double to int;
         myInt = (int)myDouble;
-        Console.WriteLine(myInt);
+
+        // typeConversion 
+        string myString = myDouble.ToString(); // "13.37"
+        string myFloatString = myFloat.ToString();
+        bool sunIsShining = false;
+
+        string myBoolString = sunIsShining.ToString();
+
+        Console.WriteLine(myBoolString);
         Console.ReadLine();
     }
 }
